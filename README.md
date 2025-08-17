@@ -12,9 +12,9 @@ This project tells a data-driven story about how global deforestation contribute
 5. Graphs adhere to visualization best practices (color, font hierarchy, and clarity).
 
 ### Tech Stack
-HTML/CSS – page structure and styling
-Datawrapper – embedded interactive charts
-JavaScript snippets – responsive resizing of iframes
+HTML/CSS – page structure and styling. 
+Datawrapper – embedded interactive charts. 
+JavaScript snippets – responsive resizing of iframes.
 
 ### How It Works
 1. The first chart highlights how afforestation efforts can’t keep pace with ongoing deforestation.
